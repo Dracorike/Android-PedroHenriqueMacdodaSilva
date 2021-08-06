@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="distance_parent">80dp</dimen>
+    <dimen name="edittext_valor_size">90dp</dimen>
+    <dimen name="distance_edittext">20dp</dimen>
+    <dimen name="distance_button">30dp</dimen>
+    <dimen name="title_distance_parent">10dp</dimen>
+    <dimen name="size_title_activity">24sp</dimen>
+</resources>

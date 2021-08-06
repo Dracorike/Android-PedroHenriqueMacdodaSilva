@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">[Android] - Pedro Henrique Macêdo da Silva</string>
+    <string name="app_name_show">Conversor de Moerda</string>
+    <string name="textbutton_origem">Origem</string>
+    <string name="textebuttom_destino">Destino</string>
+    <string name="hint_valor">R$--,--</string>
+    <string name="textbutton_converter">Converter</string>
+    <string name="activity_title_conversor">Conversor</string>
+    <string name="tool_name_currency">Nome da Moeda</string>
+    <string name="tool_codigo_currency">Codigo</string>
+</resources>
