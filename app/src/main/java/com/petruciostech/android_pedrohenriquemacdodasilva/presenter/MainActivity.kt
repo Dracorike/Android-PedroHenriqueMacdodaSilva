@@ -78,9 +78,7 @@ class MainActivity : AppCompatActivity() {
 
     }
     private fun putValueEditText(){
-        viewModel.origemValue.observe(this, {
-            bind.inputtextOrigem.setText(it.toString())
-        })
+
         viewModel.destinyValue.observe(this, {
             bind.inputtextDestiny.setText(it.toString())
         })

@@ -6,13 +6,11 @@
         android:title="search"
         android:icon="@android:drawable/ic_search_category_default"
         app:showAsAction="ifRoom"
-        app:actionViewClass="android.widget.SearchView"
-        android:onClick=""/>
+        app:actionViewClass="android.widget.SearchView"/>
     <item
         android:id="@+id/sort_to_code"
         android:title="ordenar por código"/>
     <item
-        android:id="sort_to_name"
-        android:title="Ordenar por nome"
-        />
+        android:id="@+id/sort_to_name"
+        android:title="Ordenar por nome"/>
 </menu>
