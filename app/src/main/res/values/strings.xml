@@ -8,4 +8,5 @@
     <string name="activity_title_conversor">Conversor</string>
     <string name="tool_name_currency">Nome da Moeda</string>
     <string name="tool_codigo_currency">Codigo</string>
+    <string name="title_list_currency">Lista de Moedas</string>
 </resources>

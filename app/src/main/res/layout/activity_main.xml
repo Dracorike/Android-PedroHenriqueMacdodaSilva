@@ -47,13 +47,16 @@
         android:layout_width="@dimen/edittext_valor_size"
         android:layout_height="wrap_content"
         android:hint="@string/hint_valor"
+        android:inputType="number"
         android:layout_marginStart="@dimen/distance_edittext"
         app:layout_constraintStart_toEndOf="@id/button_origem_change"
         app:layout_constraintTop_toTopOf="@id/button_origem_change"/>
     <EditText
+        android:id="@+id/inputtext_destiny"
         android:layout_width="@dimen/edittext_valor_size"
         android:layout_height="wrap_content"
         android:hint="@string/hint_valor"
+        android:inputType="number"
         android:layout_marginStart="@dimen/distance_edittext"
         app:layout_constraintBottom_toBottomOf="@id/button_destiny_change"
         app:layout_constraintStart_toEndOf="@id/button_destiny_change"/>
